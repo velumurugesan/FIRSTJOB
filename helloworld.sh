@@ -1,2 +1,2 @@
 # test job
-echo hello world;
+echo "hello world"
